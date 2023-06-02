@@ -1,0 +1,8 @@
+2023-06-02,Los Pro,8,junior,0
+2023-06-02,Atletico de Madrid,20,junior,2
+2023-06-02,Masatlan,3,Atletico de Madrid,5
+2023-06-07,psg,2,junior,4
+2023-06-08,Masatlan,4,psg,5
+2023-06-09,Atletico de Madrid,4,psg,5
+2023-06-10,Atletico de Madrid,10,junior,4
+2023-06-12,junior,12,Masatlan,1
